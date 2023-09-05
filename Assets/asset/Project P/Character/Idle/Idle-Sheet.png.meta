@@ -155,8 +155,8 @@ TextureImporter:
       name: Idle-Sheet_2
       rect:
         serializedVersion: 2
-        x: 152
-        y: 18
+        x: 149
+        y: 16
         width: 35
         height: 49
       alignment: 0
